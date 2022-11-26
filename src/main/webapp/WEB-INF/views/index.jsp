@@ -2,7 +2,7 @@
 uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
   <body>
-    <h2>It's working on Tomcat server(9.0.65) 변경테스트!</h2>
+    <h2>It's working on Tomcat server(9.0.65) test!! ^o^</h2>
     <hr />
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
